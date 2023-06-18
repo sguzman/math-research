@@ -4,3 +4,50 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 ## Topics
 - Convolution with $e^{-x^2}$ as a _cursor_
 - Convolution $\int{e^{-x^2}f(x)(g(x)-t)}dt$ as incremental application of function `f(x)` onto `g(x)` substrate
+- Cartesian plane as a binary switch board on some field
+- Unit Circle Projection
+- Developing programming primitives from real analysis operands
+- Solving collatz conjecture using operator theory
+- Having a function reference itself
+- Develop an operator that can `iterate` a number an indefinite number of times
+- Integral transform for length of orbits of collatz conjecture
+- Modified collatz conjecture that adds `collatz(1) = 0` and `collatz(0) = 0`
+- Deconstructing a function by dot product of its derivative to other function
+- Scanning line across a function with dot product
+- Multiplying by x as inbuing of curvature
+- All single-term polynomials have complete curvature of 2
+- Curvature as a measure of information
+- Curvature as a program to steer function
+- A torus that culminates at a pinched point at one side
+- Algebra as a crude mechanic process
+- Algebraic expressions as a sequence of associative function compositions
+- Integral transforms extract and count properties of functions
+- Fractional application of a function
+- Treating [0,1] as a torus
+- Sinify a function
+- Curve-filling (space filling) curve
+- An equation as a manipulatible algebraic object
+- Compressed executable that is semantically equivalent to uncompressed
+- An expression as a program
+- Normalizing a program to a mathematical expression
+- All math fields should have some way of uniquely mappings their idiosyncratic algebraic objects back to integers
+- Curves are an infinite series of linear terms
+- The more curvy, the more linear terms is needed to duplicated it
+- `e` is the function number(?)
+- `e` is a self-referencial number(?)
+- Inside a sum is a more expressive language
+- Function that spits out number of rounds needed for a space curve to hit a random (a,b) in R^2
+- Nested operations maximize the expressiveness of the syntax
+- Generalized unit measure - allows you to measure anything measurable relatively
+- Rigorous formalism for how mapping Reals (and reals subsets) to Reals functions - for example that just take a line and stretch it
+- f[x]+f'[x] I
+- f[x]+ ArcCurvature[{x,f[x]},x] I
+- x ^2 == c; algebraic diff between sqrt and div by x
+- integration as picking random algortihm to add up area
+- all integrations can be set from a to b to 0 to 1
+- there is a direct line ( no need for euler-lagrange optimization) in a set if the geometry of the boundary is a convex hull on the interior set
+- does homeomorphism always imply homeomorphism between boundaries?
+- does euler-lagrange equation map to an easier problem and then solve it?
+- what is the manual analogue of calculus of variation?
+- Discrete/Continuous invariant calculus
+- using complex numbers to model curvature
