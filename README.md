@@ -50,4 +50,5 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - does euler-lagrange equation map to an easier problem and then solve it?
 - what is the manual analogue of calculus of variation?
 - Discrete/Continuous invariant calculus
+- Using the laplacian operator to incrementally/analytically convert any function to another in a continuous manner
 - using complex numbers to model curvature
