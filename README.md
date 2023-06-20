@@ -52,3 +52,8 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Discrete/Continuous invariant calculus
 - Using the laplacian operator to incrementally/analytically convert any function to another in a continuous manner
 - using complex numbers to model curvature
+- Representing $R^2$ as a matrix centered around the origin with infinite rows and columns
+- Representing a curve on $R^2$ using a field of boolean values
+- Representing a curve as a $R^2$ matrix of 1s and 0s where the 1s are the position of points of the curve
+- Multiplying two $R^2$ matrix curves to find intersection points
+- Extending the dimensions of a row as a operation by adding or substracting new rows or columns with 0s
