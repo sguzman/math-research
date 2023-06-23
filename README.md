@@ -60,3 +60,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - For every class of functions (harmonics, elliptic, polynomials), there is a function involving the exponent of e that can emulate it to some degree
 - Nested riemann sum: While taking a riemann sum, use another riemann to calculate the error of the raw sum
 - Using the Dirac Delta function as a zero-detector. Feed it a formula that = 0. Integrate it dirac delta function; then what results is a step function that takes a step function that takes a step at every 0
+- Creating a relativized version of $R^2$ where the identity curve , $f(x)=x$, is equivalent to another function like $x^2$ or $sin(x)$
