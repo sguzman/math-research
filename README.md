@@ -59,3 +59,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Extending the dimensions of a row as a operation by adding or substracting new rows or columns with 0s
 - For every class of functions (harmonics, elliptic, polynomials), there is a function involving the exponent of e that can emulate it to some degree
 - Nested riemann sum: While taking a riemann sum, use another riemann to calculate the error of the raw sum
+- Using the Dirac Delta function as a zero-detector. Feed it a formula that = 0. Integrate it dirac delta function; then what results is a step function that takes a step function that takes a step at every 0
