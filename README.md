@@ -58,3 +58,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Multiplying two $R^2$ matrix curves to find intersection points
 - Extending the dimensions of a row as a operation by adding or substracting new rows or columns with 0s
 - For every class of functions (harmonics, elliptic, polynomials), there is a function involving the exponent of e that can emulate it to some degree
+- Nested riemann sum: While taking a riemann sum, use another riemann to calculate the error of the raw sum
