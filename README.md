@@ -68,3 +68,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Measure using number of open problems as relative health of mathematic formalisms
 - Analytic formalisms for function application to incrementally apply and compose functions
 - Tool must contain a commensurate amount of infinity as the problem
+- Duality between structure and dynamics. Structure can be interpreted as dynamics if you re-interpret one of the dimensions of structure as a time
