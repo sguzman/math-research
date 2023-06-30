@@ -65,3 +65,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Function semantics that comphrensively handles recursive call bombs
 - Extracting range from integral and creating a dedicated "iterator" object (similar to programming)
 - Exp[x]== x^(x/Log[x])
+- Measure using number of open problems as relative health of mathematic formalisms
