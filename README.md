@@ -64,3 +64,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Understanding the derivative of a function in reference to another function
 - Function semantics that comphrensively handles recursive call bombs
 - Extracting range from integral and creating a dedicated "iterator" object (similar to programming)
+- Exp[x]== x^(x/Log[x])
