@@ -63,3 +63,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Creating a relativized version of $R^2$ where the identity curve , $f(x)=x$, is equivalent to another function like $x^2$ or $sin(x)$
 - Understanding the derivative of a function in reference to another function
 - Function semantics that comphrensively handles recursive call bombs
+- Extracting range from integral and creating a dedicated "iterator" object (similar to programming)
