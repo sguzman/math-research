@@ -67,3 +67,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Exp[x]== x^(x/Log[x])
 - Measure using number of open problems as relative health of mathematic formalisms
 - Analytic formalisms for function application to incrementally apply and compose functions
+- Tool must contain a commensurate amount of infinity as the problem
