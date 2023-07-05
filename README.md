@@ -71,3 +71,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Duality between structure and dynamics. Structure can be interpreted as dynamics if you re-interpret one of the dimensions of structure as a time
 - Destructuring a real curve into holomorphic function. Re[f(x)] is scaling and Im[f(x)] is rotation
 - Creating a general functional iterator that takes a function and composes itself once. This general functional iterator can be easily composed
+- Symbol fatigue and math anxiety
