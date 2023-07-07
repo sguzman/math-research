@@ -72,3 +72,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Destructuring a real curve into holomorphic function. Re[f(x)] is scaling and Im[f(x)] is rotation
 - Creating a general functional iterator that takes a function and composes itself once. This general functional iterator can be easily composed
 - Symbol fatigue and math anxiety
+- Holomorphic functional calculus for iterated real functions of one variable
