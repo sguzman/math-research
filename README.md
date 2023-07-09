@@ -77,3 +77,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Destructuring function application into eucleaean operations
 - General Integral transform for destructuring constructed algebraic objects
 - Localizing euclidean operations
+- Computing analytical and continuous version of function application
