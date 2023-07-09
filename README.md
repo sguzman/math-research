@@ -73,3 +73,7 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Creating a general functional iterator that takes a function and composes itself once. This general functional iterator can be easily composed
 - Symbol fatigue and math anxiety
 - Holomorphic functional calculus for iterated real functions of one variable
+- Formally overloading functions to accept points, lines, surfaces, etc.
+- Destructuring function application into eucleaean operations
+- General Integral transform for destructuring constructed algebraic objects
+- Localizing euclidean operations
