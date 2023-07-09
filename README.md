@@ -78,3 +78,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - General Integral transform for destructuring constructed algebraic objects
 - Localizing euclidean operations
 - Computing analytical and continuous version of function application
+- Using infinitary methods to surmount cryptographic techniques
