@@ -81,3 +81,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Using infinitary methods to surmount cryptographic techniques
 - Creating an alternative to cartesian coordinate system using dot product and function/vector. Its similar to polar but has two 0s and a 1 and -1
 - Outline of a proof for collatz that mentions random iteration across evens eventually resolves to 1
+- Normal form of an expression as the "compressed" symbolic version of un-normalizable variants
