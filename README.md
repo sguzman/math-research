@@ -88,3 +88,5 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Distinguishing between homology and connectedness
 - Treating all topological spaces as compact. Non-connected segments are considered addendum aggregate spaces nominally considered together
 - Mapping neighborhoods onto a chart then onto a topological space then tracking neighborhoods across homeomorphism
+- Neighborhoods preserved in turbulent flows
+- Measuring turbulence using measure of eucleadean operations
