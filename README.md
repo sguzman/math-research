@@ -84,3 +84,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Normal form of an expression as the "compressed" symbolic version of un-normalizable variants
 - When does linear homotopy allow homeomorphism?
 - Linear homotopy as a fractional function application
+- Using ambience space to exogenously study the connectedness and holes of a topological space
