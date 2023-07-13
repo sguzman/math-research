@@ -90,3 +90,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Mapping neighborhoods onto a chart then onto a topological space then tracking neighborhoods across homeomorphism
 - Neighborhoods preserved in turbulent flows
 - Measuring turbulence using measure of eucleadean operations
+- Nesting euclidean plane and operations into domain specific spaces
