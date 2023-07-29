@@ -95,3 +95,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - An infinite set contains itself in the same way a recursive function contains itself
 - Process oriented function semantics to represent recursive functions
 - Process theory and the intractability of its formalisms introduce
+- Dichotomy between intractable but computable formalisms vs non-computable but tractable formalisms
