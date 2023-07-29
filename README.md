@@ -93,3 +93,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Nesting euclidean plane and operations into domain specific spaces
 - Linear homotopy as a semigroup of bounded linear operators
 - An infinite set contains itself in the same way a recursive function contains itself
+- Process oriented function semantics to represent recursive functions
