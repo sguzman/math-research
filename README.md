@@ -97,3 +97,5 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Process theory and the intractability of its formalisms introduce
 - Dichotomy between intractable but computable formalisms vs non-computable but tractable formalisms
 - All curves correspond to a straight line in respective space
+- Using operator theory to study dynamics of genome state and genetic mutation
+- Using operator theory to study any arbitrary state space and dynamics thereof
