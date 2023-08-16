@@ -99,3 +99,5 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - All curves correspond to a straight line in respective space
 - Using operator theory to study dynamics of genome state and genetic mutation
 - Using operator theory to study any arbitrary state space and dynamics thereof
+- Representing a matrix as a infinite matrix with 0s being filled in around the matrix
+- Zero-matrix (all slots are 0) algebraic closure
