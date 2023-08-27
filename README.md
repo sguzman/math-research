@@ -102,3 +102,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Representing a matrix as a infinite matrix with 0s being filled in around the matrix
 - Zero-matrix (all slots are 0) algebraic closure
 - Computing intersections by: create a $R^2$ matrix for points for each curve (1 for point, 0 elsewhere), multiply both matrices, somehow zoom in on non-zero points
+- Addition as disjoint, additive semantics
