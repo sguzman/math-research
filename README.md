@@ -103,3 +103,6 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Zero-matrix (all slots are 0) algebraic closure
 - Computing intersections by: create a $R^2$ matrix for points for each curve (1 for point, 0 elsewhere), multiply both matrices, somehow zoom in on non-zero points
 - Addition as disjoint, additive semantics
+- UI 2D user artifacts as wishlist for mathematical tools
+- Scrolling on a subset of R^2
+- Scroll.fx function that can scroll a subset of R^2 like a scrollbar can
