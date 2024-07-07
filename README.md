@@ -109,3 +109,6 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Grid theory (infinite matrix that represents $R^2$ as a boolean field)
 - Outline for a solution for collatz involving zeta function. Mapping topology of map of all positive integers to complex plane
 - Outline for a solution for collatz involving operators. Double integral of all positive real numbers. Inner integral is an iteration of the collatz map an infinite number of times and yields fix point if completes
+- Hyperoperation isomorphisms
+- Exp as hyperoperation upgrade
+- Log as hyperaoption downgrade
