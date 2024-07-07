@@ -116,3 +116,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Digital Logic vs Analog Logic
 - Additive Infinity vs Multiplicative Infinity
 - Addition as isomophic to comma operator
+- Infinite cardinality databases and their queries
