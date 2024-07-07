@@ -113,3 +113,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Exp as hyperoperation upgrade
 - Log as hyperaoption downgrade
 - Evolutionary Mutation Operator (using quantum operators)
+- Digital Logic vs Analog Logic
