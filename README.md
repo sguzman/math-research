@@ -117,3 +117,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Additive Infinity vs Multiplicative Infinity
 - Addition as isomophic to comma operator
 - Infinite cardinality databases and their queries
+- AI producing rational, optimized cowpaths for oft treaded neural computations
