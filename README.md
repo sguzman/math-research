@@ -121,3 +121,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Computing homology by computing the homology of the compliment of the topological space in the embedded ambience space
 - Every curve is a straight line in the right compact manifold
 - Isomorphism between 1 in multiplicative operator context and x (variable) in functions
+- To get the inverse of an argument, you must step through infinity
