@@ -119,3 +119,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Infinite cardinality databases and their queries
 - AI producing rational, optimized cowpaths for oft treaded neural computations
 - Computing homology by computing the homology of the compliment of the topological space in the embedded ambience space
+- Every curve is a straight line in the right compact manifold
