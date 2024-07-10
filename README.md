@@ -124,3 +124,6 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - To get the inverse of an argument, you must step through infinity
 - Dot product as a coordinate grid: 1 is aligned with initial vector; 1 is anti parallel; two 0s orthogonal to initial vector
 - Anthropology of mathematicians
+- Infinity-conjoined proofs
+- Proofs with infinite steps
+- Definitions of function to maximize discretion of mathematician vs definition of function to maximize computability
