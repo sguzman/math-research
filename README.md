@@ -127,3 +127,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Infinity-conjoined proofs
 - Proofs with infinite steps
 - Definitions of function to maximize discretion of mathematician vs definition of function to maximize computability
+- The anti-coercive semantic properties of addition
