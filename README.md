@@ -122,3 +122,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Every curve is a straight line in the right compact manifold
 - Isomorphism between 1 in multiplicative operator context and x (variable) in functions
 - To get the inverse of an argument, you must step through infinity
+- Dot product as a coordinate grid: 1 is aligned with initial vector; 1 is anti parallel; two 0s orthogonal to initial vector
