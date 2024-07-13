@@ -130,3 +130,5 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - The anti-coercive semantic properties of addition
 - Since topological spaces are rotational and scaling invariant, scaling or rotating the continuous map between topological spaces should preserve topology
 - Nth iterate of continuous map is also continuous
+- Eigenvalue as point of maximim symmetry
+- $exp$ function as operator constructor
