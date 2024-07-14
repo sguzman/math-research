@@ -132,3 +132,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Nth iterate of continuous map is also continuous
 - Eigenvalue as point of maximim symmetry
 - $exp$ function as operator constructor
+- Spectrum of an operator as eigenvalues
