@@ -133,3 +133,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Eigenvalue as point of maximim symmetry
 - $exp$ function as operator constructor
 - Spectrum of an operator as eigenvalues
+- Process oriented semantics for halting problem-like algebra. Completed process semantics for regular algebra
