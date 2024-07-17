@@ -140,3 +140,5 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - The symmetry implies dual
 - Theorems and their dual theorems
 - K' = S I I K
+- The dual of a symmetrical thing is itself (because of the symmetry)
+- Self-dual -> symmetric
