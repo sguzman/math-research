@@ -146,3 +146,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Exp upgrades hyperoperations: $Exp[Additive Identity] = Multiplicative Identity$
 - Log downgrades hyperoperations: $Log[Multiplicative Identity] = Additive Identity$
 - Reduction of collatz problem to if $f(n)=3n+1$ ever equals a power of 2
+- Hyper Abstract Algebra: An algebra with a homeomorphic structure to abstract algebras BUT chain length are a product of iteration
