@@ -143,3 +143,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - The dual of a symmetrical thing is itself (because of the symmetry)
 - Self-dual -> symmetric
 - x + dual(x) = the whole
+- Exp upgrades hyperoperations: $Exp[Additive Identity] = Multiplicative Identity$
