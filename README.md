@@ -149,3 +149,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Hyper Abstract Algebra: An algebra with a homeomorphic structure to abstract algebras BUT chain length are a product of iteration
 - Hyper Abstract algebra allows for hyper modulo n operation that follows log curve for modulos behavior
 - Hyper Abstract Algebra is to hyper modulos as abstract algebra is to modulos
+- Mathematical Existentialism: Mathematicians as machines that convert mathematics to mathematics + existentialism
