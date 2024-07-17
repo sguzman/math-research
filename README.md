@@ -135,3 +135,7 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Spectrum of an operator as eigenvalues
 - Process oriented semantics for halting problem-like algebra. Completed process semantics for regular algebra
 - Alternative S and K combinator functions. $K' x y = y$ and $S' x  y z = (x y) (x z)$: $I = S' K' K'$, $K = S' (S' K') K'$ and $S = S' (S' (S' K' K') (S' K' K'))$
+- The dual of a combinator
+- Commutativity implies symmetry
+- The symmetry implies dual
+- Theorems and their dual theorems
