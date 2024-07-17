@@ -142,3 +142,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - K' = S I I K
 - The dual of a symmetrical thing is itself (because of the symmetry)
 - Self-dual -> symmetric
+- x + dual(x) = the whole
