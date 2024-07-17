@@ -139,3 +139,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Commutativity implies symmetry
 - The symmetry implies dual
 - Theorems and their dual theorems
+- K' = S I I K
