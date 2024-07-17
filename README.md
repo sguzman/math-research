@@ -144,3 +144,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Self-dual -> symmetric
 - x + dual(x) = the whole
 - Exp upgrades hyperoperations: $Exp[Additive Identity] = Multiplicative Identity$
+- Reduction of collatz problem to if $f(n)=3n+1$ ever equals a power of 2
