@@ -151,3 +151,5 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Hyper Abstract Algebra is to hyper modulos as abstract algebra is to modulos
 - Mathematical Existentialism: Mathematicians as machines that convert mathematics to mathematics + existentialism
 - 1+1=2 -> Equal[Plus[1,1],2]. Dual[Equal[Plus[1,1],2]] = Dual[Equal][Dual[Plus][Dual[1],Dual[1],Dual[2]]] = False
+- Cons[1, Cons[2...]. Dual[Cons][Dual[1],Dual[Cons][Dual[2]...]
+- Dual[Dual] = Identity
