@@ -154,3 +154,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Cons[1, Cons[2...]. Dual[Cons][Dual[1],Dual[Cons][Dual[2]...]
 - Dual[Dual] = Identity
 - Log[Π(1-1/p^s)^(-1)]= -Sum[Σ (Log[1-1/p^s)]
+- Points and lines inversed when rotated 90
