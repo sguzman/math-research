@@ -164,3 +164,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Projective geometry as a rough Category theory approximiation. Lines as bilateral morphisms and poinst as objects
 - Duality of Category theory objects
 - Dot product as a derivative. Solve for a the point that makes a dot product with the line at a point 0; perpendicular point
+- What is the dual of a number?
