@@ -155,3 +155,6 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Dual[Dual] = Identity
 - Log[Π(1-1/p^s)^(-1)]= -Sum[Σ (Log[1-1/p^s)]
 - Points and lines inversed when rotated 90
+- Theorems in 2D are minutiae in 3D
+- Taking into account the ambient space in your theorem generalizes the theorem
+- Ambient space as the context space for the theorem
