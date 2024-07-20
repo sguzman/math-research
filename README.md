@@ -166,3 +166,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Dot product as a derivative. Solve for a the point that makes a dot product with the line at a point 0; perpendicular point
 - What is the dual of a number?
 - a ~Union~ b = max(a,b)
+- ambient embedding space of a predator in his wnvieonmwnt generates the prey model
