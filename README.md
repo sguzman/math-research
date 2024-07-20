@@ -162,3 +162,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Ambient space as the context space for the theorem
 - Dual(1 + 1 ==2)==(0!=Dual(2))==False
 - Projective geometry as a rough Category theory approximiation. Lines as bilateral morphisms and poinst as objects
+- Duality of Category theory objects
