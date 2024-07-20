@@ -167,3 +167,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - What is the dual of a number?
 - a ~Union~ b = max(a,b)
 - ambient embedding space of a predator in his wnvieonmwnt generates the prey model
+- addition as ambiguity operator appending objects
