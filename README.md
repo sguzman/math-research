@@ -169,3 +169,5 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - ambient embedding space of a predator in his wnvieonmwnt generates the prey model
 - addition as ambiguity operator appending objects
 - Exponentiation maps -infinity to the x-axis and captures the essences of growth behavior in a compressed space
+- n dimensional matrices
+- n dimensional matrices as isomorphic to tensors
