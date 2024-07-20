@@ -168,3 +168,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - a ~Union~ b = max(a,b)
 - ambient embedding space of a predator in his wnvieonmwnt generates the prey model
 - addition as ambiguity operator appending objects
+- Exponentiation maps -infinity to the x-axis and captures the essences of growth behavior in a compressed space
