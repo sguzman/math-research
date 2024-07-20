@@ -20,6 +20,7 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Curvature as a program to steer function
 - A torus that culminates at a pinched point at one side
 - Algebra as a crude mechanic process
+
 - Algebraic expressions as a sequence of associative function compositions
 - Integral transforms extract and count properties of functions
 - Fractional application of a function
@@ -152,9 +153,11 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Mathematical Existentialism: Mathematicians as machines that convert mathematics to mathematics + existentialism
 - 1+1=2 -> Equal[Plus[1,1],2]. Dual[Equal[Plus[1,1],2]] = Dual[Equal][Dual[Plus][Dual[1],Dual[1],Dual[2]]] = False
 - Cons[1, Cons[2...]. Dual[Cons][Dual[1],Dual[Cons][Dual[2]...]
+- Nested expression as a list
 - Dual[Dual] = Identity
 - Log[Π(1-1/p^s)^(-1)]= -Sum[Σ (Log[1-1/p^s)]
 - Points and lines inversed when rotated 90
 - Theorems in 2D are minutiae in 3D
 - Taking into account the ambient space in your theorem generalizes the theorem
 - Ambient space as the context space for the theorem
+- Dual(1 + 1 ==2)==(0!=Dual(2))==False
