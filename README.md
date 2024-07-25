@@ -155,7 +155,7 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Cons[1, Cons[2...]. Dual[Cons][Dual[1],Dual[Cons][Dual[2]...]
 - Nested expression as a list
 - Dual[Dual] = Identity
-- Log[Π(1-1/p^s)^(-1)]= -Sum[Σ (Log[1-1/p^s)]
+- $Log[Π(1-1/p^s)^(-1)]= -Sum[ (Log[1-1/p^s)]$
 - Points and lines inversed when rotated 90
 - Theorems in 2D are minutiae in 3D
 - Taking into account the ambient space in your theorem generalizes the theorem
@@ -171,3 +171,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Exponentiation maps -infinity to the x-axis and captures the essences of growth behavior in a compressed space
 - n dimensional matrices
 - n dimensional matrices as isomorphic to tensors
+- $Exp[Sum[(1/n^s)]] = Π[Exp[1/n^s]]$
