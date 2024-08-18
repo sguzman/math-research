@@ -172,3 +172,5 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - n dimensional matrices
 - n dimensional matrices as isomorphic to tensors
 - $Exp[Sum[(1/n^s)]] = Π[Exp[1/n^s]]$
+- Genome as a vector space of genes (scalar used to index alleles)
+- Binary vector space (where scalar is either 0 or 1)
