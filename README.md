@@ -174,3 +174,5 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - $Exp[Sum[(1/n^s)]] = Π[Exp[1/n^s]]$
 - Genome as a vector space of genes (scalar used to index alleles)
 - Binary vector space (where scalar is either 0 or 1)
+- index-based metric space
+- representing algebraic structure with a single number treated as an index
