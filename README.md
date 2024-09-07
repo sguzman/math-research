@@ -176,3 +176,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Binary vector space (where scalar is either 0 or 1)
 - index-based metric space
 - representing algebraic structure with a single number treated as an index
+- category theory as the natural calculus of syntax-free syntactic analysis
