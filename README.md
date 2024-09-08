@@ -180,3 +180,10 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Analytic chemistry: a marriage of chemical dynamics to the real continuum
 - Hyperoperation arithmatic
 - Exp[H]@Exp[H]@Reflect@Log[H]@[H[2][a,H[3][b,c] == Exp[H]@Exp[H]@Reflect@H[1][a,H[2][b,c]] == Exp[H]@Exp[H]@H[-1][a, H[-2][b,c]] == H[1][a,H[0][b,c]]
+- Combinatorial genetics
+- Combinatorial genetic generational projection
+- Writing in a strongly normalizing language with an unstable formalism
+- Temporal algebra
+- Algebra of unbounded temporality
+- Procedural algebra: identity as unbounded temporal constituent
+- Material reality as a 4D manifold that binds all materia etcera
