@@ -187,3 +187,7 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Algebra of unbounded temporality
 - Procedural algebra: identity as unbounded temporal constituent
 - Material reality as a 4D manifold that binds all materia etcera
+- Counting a stack of papers by using principle of equinumery by starting with one paper: Get as many papers into hand as you currently have keeps doubling
+- Using neural networks to deconstruct known math objects
+- Defining extrastructural properties (topology, geometry, etc.) on top of encoder data
+- Propisitional encoding of structure using 1/0 as presence/absence
