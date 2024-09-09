@@ -191,3 +191,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Using neural networks to deconstruct known math objects
 - Defining extrastructural properties (topology, geometry, etc.) on top of encoder data
 - Propisitional encoding of structure using 1/0 as presence/absence
+- Technoloy (including math) maturity theory: from end-consumer ergonomics to construction ergonomics
