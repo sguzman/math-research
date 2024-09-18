@@ -192,3 +192,5 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Defining extrastructural properties (topology, geometry, etc.) on top of encoder data
 - Propisitional encoding of structure using 1/0 as presence/absence
 - Technoloy (including math) maturity theory: from end-consumer ergonomics to construction ergonomics
+- Real function iteration as fix-point segmented regions of diffeomorphisms
+- multiplicative function semantics with y = 1 as the base (instead of x-axis)
