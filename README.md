@@ -194,3 +194,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Technoloy (including math) maturity theory: from end-consumer ergonomics to construction ergonomics
 - Real function iteration as fix-point segmented regions of diffeomorphisms
 - multiplicative function semantics with y = 1 as the base (instead of x-axis)
+- Norm as top-meta attribute
