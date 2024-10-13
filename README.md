@@ -195,3 +195,5 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Real function iteration as fix-point segmented regions of diffeomorphisms
 - multiplicative function semantics with y = 1 as the base (instead of x-axis)
 - Norm as top-meta attribute
+- Emo theory: formalism, algebra and calculus for emotions
+- Differential emo theory: infinitisimal emo theory
